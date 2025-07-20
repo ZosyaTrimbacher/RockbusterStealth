@@ -18,3 +18,7 @@ The dataset comprises information on the following parameters:
 - PostgreSQL – for data storage and querying
 - SQL – for data analysis
 - Excel – for reporting and data presentation
+
+# Resources
+
+Rockbuster Stealth 2020 Stratagy presentation is [here](https://coach-courses-us.s3.amazonaws.com/exercises/1054/70433/44b4a0433579bc75ebada14d4a1fae7c/Exercise-3.10-Presentation-by-Zosya-Trimbacher---.pdf)
